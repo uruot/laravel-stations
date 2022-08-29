@@ -7,6 +7,6 @@
  <title>Practice</title>
  </head>
  <body>
- <strong>{{ $testParam }}</strong>
+ <strong>hello</strong>
  </body>
  </html>
