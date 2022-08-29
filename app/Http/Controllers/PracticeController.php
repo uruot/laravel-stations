@@ -15,6 +15,11 @@
  return view('practice2', ['testParam' => $test]);
  }
 
+ public function sample3()
+ {
+ $test = 'practice3';
+ return view('practice3', ['testParam' => $test]);
+ }
 
  }
 
