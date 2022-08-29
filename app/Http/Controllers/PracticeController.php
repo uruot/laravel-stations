@@ -1,6 +1,7 @@
 <?php
  namespace App\Http\Controllers;
  
+ 
  class PracticeController extends Controller
  {
  public function sample()
@@ -13,6 +14,10 @@
  $test = 'practice2';
  return view('practice2', ['testParam' => $test]);
  }
+
+
  }
+
+ 
 
 
