@@ -14,8 +14,6 @@
  $test = 'practice2';
  return view('practice2', ['testParam' => $test]);
  }
- 
+ }
 
-}
- 
 
